@@ -72,3 +72,9 @@ I also learned how to combine traditional image processing with neural network-b
 ## ⚠️ Security Note
 
 Sensitive information such as email credentials and API tokens has been removed from this repository for security reasons.
+
+## Repository Note
+
+The trained model weights and dataset are not included in this repository due to repository size limitations.
+
+Sensitive credentials have also been removed for security reasons.
