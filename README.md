@@ -1,5 +1,5 @@
 # Holy Seat
-
+![Program Screenshot](screenshots/main.png)
 An image-based monitoring system built with Python, OpenCV, and PyTorch.
 
 This project explores real-time screen analysis using computer vision and a Siamese Neural Network. It combines image processing, deep learning, and real-time monitoring techniques to detect meaningful visual changes with improved reliability.
